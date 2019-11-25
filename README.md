@@ -1,5 +1,5 @@
 # cmpe150-Fall2019
-Fall 2019 projects of CMPE150(Introduction to Computer)
+The projects of CMPE150(Introduction to Computing)
 
 | The Term  | Instructor | Language
 | ------------- | ------------- | ------------- |
